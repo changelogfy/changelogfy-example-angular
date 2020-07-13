@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "changelogfy-example-angular"
+    }
+  },
+  "defaultProject": "changelogfy-example-angular",
+  "cli": {
+    "analytics": false
+  }
 }
